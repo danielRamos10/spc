@@ -1,0 +1,28 @@
+.card{
+    background-color: #290956;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px rgb(143, 57, 133, 0.5);
+    margin: auto;
+}
+.card-text{
+    color: #fff;
+}
+.bd-placeholder-img{
+    border-radius: 20px 20px 0 0;
+}
+
+.btn-outline-secondary {
+    background-color: #8F3985;
+    border-color: #8F3985;
+    color: #fff;
+    &:hover{
+        background-color: #fff;
+        color: #290956;
+    }
+}
+.header-title{
+    color: #fff;
+}
+.lead{
+    color: #fff;
+}
